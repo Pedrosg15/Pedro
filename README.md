@@ -17,7 +17,6 @@
   <a href="https://instagram.com/siqueira_pedro2005" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-siqueira-83412b29a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a>
 
- <a href="https://www.Gmail.com/in/pedrogalvao890@gmail.com" target="_blank">https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white<a>
     
 
   
